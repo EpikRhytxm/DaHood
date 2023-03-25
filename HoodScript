@@ -1,0 +1,11 @@
+local PLAYERS = game:GetService("Players") -- i dont know why this is here
+
+for _, v in pairs(game.Players:GetChildren()) do
+	
+	if v.Name == "MGX_oi" --[[or v.Name == "example"]] then -- human check (replace christewbob with whatever)
+		
+		v:Kick("Lol bozo you thought😂😂😂🤣🤣🤣 Part Four") -- obliterate (replace idiot with whatever)
+		
+	end
+	
+end
